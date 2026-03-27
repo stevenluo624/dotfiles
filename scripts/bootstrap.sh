@@ -23,7 +23,7 @@ brew bundle --file="$HOME/.dotfiles/Brewfile"
 
 mkdir -p "$HOME/Documents/Obsidian"
 if [ ! -d "$HOME/Documents/Obsidian/MyVault" ]; then
-  git clone "$OBSIDIAN_REPO" "$HOME/Documents/Obsidian/MyVault"
+  git clone "$OBSIDIAN_REPO" "$HOME/Documents/'Obsidian Vault'"
 fi
 
 echo "Setup complete."
