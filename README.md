@@ -156,9 +156,3 @@ Run manually if needed:
 ```bash
 bash ~/.dotfiles/mac/defaults.sh
 ```
-
-## Notes
-
-- This is a personal repo, not a generic cross-platform bootstrap setup.
-- The scripts are intentionally simple and assume a local macOS machine.
-- Obsidian is not managed from this repo.
